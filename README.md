@@ -1,9 +1,3 @@
-<style>
-a {
-  text-decoration: none;
-}
-</style>
-
 - 👋 Hi, I’m @HyperSourceGithub, but you may know me as HyperSource on other places!
 - 👀 I’m interested in random coding (generally python)
 - 🌱 I’m currently learning new python stuff and other code
