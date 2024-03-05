@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I’m HyperSource!</h1>
 <!-- <h2 align="center">but you may know me as HyperSource on other places!</h2> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=HyperSourceGithub)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="center">a random dude who codes</h3>
 - 🔭 I currently work with: <strong>Python, discord.py, Blockly, and web dev stuff</strong>  <br />
 - 👀 I’m interested in <strong>random coding (generally python) and games</strong>  <br />
