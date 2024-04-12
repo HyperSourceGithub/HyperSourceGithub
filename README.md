@@ -6,8 +6,8 @@
 - 🔭 I'm currently working on: <strong>my own Pygame-based flight simulator game!</strong> <br /> <br />
 - 👀 I’m interested in <strong>random coding (generally python) and games</strong>  <br /> <br />
 - 🌱 I’m currently learning <strong>new python stuff and other code</strong>  <br /> <br />
-- 📫 How to reach me: <strong>email works (detective.sir.goose@gmail.com), discord does also <strong>(@hypersource)</strong> but i am working on some other methods (custom-coded chatroom?????!?!?!?!)</strong>  <br />
-- ⚡ Fun fact: <strong>i make discord bots<strong>  <br />
+- 📫 How to reach me: <strong>email works (detective.sir.goose@gmail.com), discord does also <strong>(@hypersource)</strong> but i am working on some other methods (custom-coded chatroom?????!?!?!?!)</strong>  <br /> <br />
+- ⚡ Fun fact: <strong>i make discord bots<strong>  <br /> <br />
 - My Lanugages: <p>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
