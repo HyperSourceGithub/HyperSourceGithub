@@ -18,6 +18,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> </p>
 
-<p><img align="left" src="https://hyper-vercel-html-gitstats.vercel.app/api?username=hypersourcegithub&show_icons=true&theme=tokyonight" alt="hypersourcegithub" /></p>
+<p><img align="left" src="https://hyper-vercel-html-gitstats.vercel.app/api/top-langs?username=hypersourcegithub&show_icons=true&locale=en&layout=compact&theme=dark" alt="hypersourcegithub" /></p>
 
 ![HyperSource's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypersourcegithub&theme=blueberry&show_icons=true)
