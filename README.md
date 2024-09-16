@@ -3,11 +3,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hypersourcegithub" alt="hypersourcegithub" /></a> </p>
 <h3 align="center">a random dude who codes</h3>
 - 🔭 I currently work with: <strong>Python, discord.py, Blockly, and web dev stuff</strong>  <br /> <br />
-- 🔭 I'm currently working on: <strong>my own Pygame-based flight simulator game!</strong> <br /> <br />
+- 🔭 I'm currently working on: <strong>a few goofy games, all hosted here on github!</strong> <br /> <br />
 - 👀 I’m interested in <strong>random coding (generally python) and games</strong>  <br /> <br />
 - 🌱 I’m currently learning <strong>new python stuff and other code</strong>  <br /> <br />
 - 📫 How to reach me: <strong>email works (detective.sir.goose@gmail.com), discord does also <strong>(@hypersource)</strong> but i am working on some other methods (custom-coded chatroom?????!?!?!?!)</strong>  <br /> <br />
-- ⚡ Fun fact: <strong>i make discord bots<strong>  <br /> <br />
+- ⚡ Fun fact: <strong> i Ɛ> open source</strong>  <br /> <br />
 - My Lanugages: <p>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
