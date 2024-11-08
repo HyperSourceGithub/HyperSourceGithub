@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hypersourcegithub&theme=discord" alt="hypersourcegithub" /></a> </p>
 
 
-- 🔭 I’m currently working on [my Python library, Kwiksand](https://pypi.org/project/kwiksand)
+- 🔭 I’m currently working on [my free-to-use web music player](https://hyperaudio.vercel.app)
 
 - 🌱 I’m currently learning **Godot and i guess Unity**
 
